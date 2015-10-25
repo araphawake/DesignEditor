@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/images/save.png</file>
+        <file>icons/images/quit.png</file>
+        <file>icons/images/paste.png</file>
+        <file>icons/images/open.png</file>
+        <file>icons/images/new.png</file>
+        <file>icons/images/cut.png</file>
+        <file>icons/images/copy.png</file>
+        <file>icons/images/move_arrow_cursor_direction_shift_pan_arrows-512.png</file>
+        <file>icons/images/paintbrush-symbol_318-9145.jpg</file>
+    </qresource>
+</RCC>
