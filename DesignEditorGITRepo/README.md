@@ -1,11 +1,9 @@
-
-**************************	 DesignEditor README	***************************
+# DesignEditor
 
 **********************************
  AUTHOR
 **********************************
 Rafael Azevedo Moscoso Silva Cruz; Cruz, RAMSC.
-# DesignEditor
 
 **********************************
  README
