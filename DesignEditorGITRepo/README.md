@@ -10,7 +10,7 @@ Rafael Azevedo Moscoso Silva Cruz; Cruz, RAMSC.
 **********************************
 
 	This document provides all the information for the correct usage of this program/code.
-	If you would like to run this program, please installl Qt Creator. Once Qt Creator is installed,
+	If you would like to run this program, please install Qt Creator. Once Qt Creator is installed,
 	you will be able to open the file DesignEditor.pro inside the directory DesignEditor.
 	Run the project from Qt Creator to run this program.
 
